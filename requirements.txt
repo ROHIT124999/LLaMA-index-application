@@ -1,0 +1,11 @@
+llama-index
+pypdf
+python-dotenv
+openai
+transformers
+einops
+accelerate
+langchain
+bitsandbytes
+sentence_transformers
+llama-index-llms-huggingface
